@@ -13,6 +13,7 @@
 
 
 
-## 命令
+<font color=red>## 命令 
 - 拨号连接 sudo pppoeconf
-- 
+- 查看所有软件 dpkg --list
+- 删除软件 
