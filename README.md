@@ -7,4 +7,5 @@
 ***
 - 其他<br>
 [Linux社区](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
-[MarkDown基础](https://github.com/max-studio/Git-and-MarkDown/blob/master/slides/MarkDown_Study.md#%E4%B9%9D%E4%BB%A3%E7%A0%81)
+[MarkDown基础](https://github.com/max-studio/Git-and-MarkDown/blob/master/slides/MarkDown_Study.md#%E4%B9%9D%E4%BB%A3%E7%A0%81)<br>
+[技术社区](https://segmentfault.com)<br>
