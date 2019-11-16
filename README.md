@@ -8,5 +8,4 @@
 ***
 ***
 <br>
-<font size=3>
 [Linux社区](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)
