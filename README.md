@@ -1,5 +1,7 @@
 # Linux 学习
 
+<font color=red>具体内容请翻到 Wiki
+
 - 快捷键
 - 命令语句
 - 在 ubuntu 里面安装 Cpp 软件
