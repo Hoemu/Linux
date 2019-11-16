@@ -3,7 +3,7 @@
 <font color=red>具体内容请翻到 Wiki
 
 - 快捷键
-- 命令语句
+- [命令语句](https://github.com/2501590635/Linux_leaning/wiki/%E5%85%B3%E4%BA%8E-ubuntu-%E7%9A%84%E5%91%BD%E4%BB%A4)
 - 在 ubuntu 里面安装 Cpp 软件
 ***
 ***
