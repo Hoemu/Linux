@@ -4,7 +4,7 @@
 - [命令语句](https://github.com/2501590635/Linux_leaning/wiki/%E5%85%B3%E4%BA%8E-ubuntu-%E7%9A%84%E5%91%BD%E4%BB%A4)
 - [vim 的使用](https://github.com/2501590635/Linux_leaning/wiki/vim-的使用)
 ***
-[Linux社区(ubuntu)](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
+[Linux社区(ubuntu)(更为完整的ubuntu命令)](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
 ***
 ***
 # 关于其他<br>
