@@ -1,6 +1,6 @@
 # Linux 基本学习(ubuntu)
 
-- [快捷键](https://github.com/2501590635/Linux_leaning/wiki/%E5%85%B3%E4%BA%8E-ubuntu-%E7%9A%84%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
+- [快捷键](https://github.com/2501590635/Linux/blob/master/Linux%20%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0(ubuntu)/%E5%BF%AB%E6%8D%B7%E9%94%AE.md#%E5%BF%AB%E6%8D%B7%E9%94%AE)
 - [命令语句](https://github.com/2501590635/Linux_leaning/wiki/%E5%85%B3%E4%BA%8E-ubuntu-%E7%9A%84%E5%91%BD%E4%BB%A4)
 - [vim 的使用](https://github.com/2501590635/Linux_leaning/wiki/vim-的使用)
 - [运行的Cpp](https://github.com/2501590635/Linux/wiki/Ubuntu%E4%B8%8A%E7%9A%84cpp)
