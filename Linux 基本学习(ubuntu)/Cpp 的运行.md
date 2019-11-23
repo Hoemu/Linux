@@ -1,3 +1,4 @@
+# Cpp 的运行 
 1. 创建一个cpp文件"vim hello.cpp"(如果没有 vim 可以使用 "vi 文件名.cpp" 
 2. 编写内容
 3. 编译：如果是 C 文件就是 "gcc hello.c"
