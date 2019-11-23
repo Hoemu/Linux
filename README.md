@@ -6,7 +6,7 @@
 - [Cpp的运行](https://github.com/2501590635/Linux/wiki/Ubuntu%E4%B8%8A%E7%9A%84cpp)
 ***
 # 软件安装
-- [安装搜狗输入法](https://github.com/2501590635/Linux/wiki/%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95)
+- [安装搜狗输入法](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95.md)
 
 ***
 # 关于其他<br>
