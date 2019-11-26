@@ -5,7 +5,7 @@
 - [vim 的使用](https://github.com/2501590635/Linux/blob/master/Linux%20%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0(ubuntu)/vim%20%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 ***
-# 软件安装
+# 关于软件
 - [安装搜狗输入法](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95.md)
 - [c++安装以及运用](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/C%2B%2B%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E8%BF%90%E7%94%A8.md)
 - [MySQL安装以及运用](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/MySQL%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E8%BF%90%E7%94%A8.md)
