@@ -9,3 +9,5 @@
 6. 退出 mysql 输入[quit];
 7. 重启mysql 输入　[mysql -u root -p;]　会显示你输入密码，就完成了
 ## 用终端使用 MySQL
+### 基本语法
+1. 查看数据库: show databases;
