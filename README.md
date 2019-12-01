@@ -12,7 +12,7 @@
 - [Linux 上的取词翻译软件](https://github.com/jiangzc/CuteTranslation)
 
 ***
-# 在这其中遇到的问题
+# 遇到的问题
 1. [有线设置中出现了ppp1,ppp2,ppp3...](https://forum.ubuntu.org.cn/viewtopic.php?t=329858)
 ***
 # 其他<br>
