@@ -13,7 +13,7 @@
 
 ***
 # 在这其中遇到的问题
-1. 在网络链接里出现了ppp1,ppp2,ppp3...
+1. [有线设置中出现了ppp1,ppp2,ppp3...](https://forum.ubuntu.org.cn/viewtopic.php?t=329858)
 ***
 # 其他<br>
 [ubuntu社区(ubuntu官网学习)](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
