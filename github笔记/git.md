@@ -28,6 +28,7 @@ git commit -m "wrote a readme file"
 ```
 (1). 查看历史提交
 git status
+
 (2). 查看历史修改
 git diff 文件名称
 //这个命令是只在我们还未提交上git 的时候可以查看我们修改的地方
