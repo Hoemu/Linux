@@ -43,6 +43,6 @@ git reset --hard HEAD^
 HEAD 指的是当前版本，而 HEAD^ 是上一个版本，HEAD^^ 是上上个版本，但是要第100个版本可以直接写 HEAD~100
 
 (5). 退回以前版本后再次返回新版本
-git relog //记录你的每一次命令
+git relog //记录你的每一次命令，然后查看新版本的最起前面的编号(commit_id)
 然后输入 git reset --hard commit_id
 ```
