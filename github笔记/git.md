@@ -4,7 +4,7 @@
 sudo apt-get install git
 ```
 2. 创建版本库<br>
-(1).　创建一个git文件
+(1).　创建一个git文件<br>
 ```
 mkdir learngit
 cd learngit
@@ -12,7 +12,7 @@ pwd
 //最后这行是 pwd 运行结果
 /Users/michael/learngit
 ```
-&nbsp　(2). 初始化文件
+(2). 初始化文件
 ```
 //刚刚上一个步骤已经到达我们要用的文件夹了，现在只需要把文件夹初始化就可以了
 git init
@@ -23,7 +23,7 @@ git init
 git add readme.txt
 //当然 git add 可以加入多个文件，我们只需要在后面再添加就可以了
 ```
-   (4).　提交文件
+   (4). 提交文件
 ```
 git commit -m "wrote a readme file"
 ```
