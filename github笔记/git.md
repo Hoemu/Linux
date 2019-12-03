@@ -27,7 +27,7 @@ git add readme.txt
 ```
 git commit -m "wrote a readme file"
 ```
-3. 查看历史记录
+3. 查看历史记录<br>
 (1). 查看历史提交
 ```
 git status
