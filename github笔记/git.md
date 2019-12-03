@@ -38,4 +38,8 @@ git diff 文件名称
 git log
 //在每一次提交都自己写一个版本【git add 文件】【git commit -m "版本信息"】
 
+(4). 退回以前的版本
+git reset --hard HEAD^
+HEAD 指的是当前版本，而 HEAD^ 是上一个版本，HEAD^^ 是上上个版本，但是要第100个版本可以直接写 HEAD~100
+
 ```
