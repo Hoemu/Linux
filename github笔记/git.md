@@ -3,7 +3,7 @@
 ```
 sudo apt-get install git
 ```
-2. 创建版本库
+2. 创建版本库<br>
 (1).　创建一个git文件
 ```
 mkdir learngit
