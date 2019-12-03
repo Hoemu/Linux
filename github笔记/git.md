@@ -1,4 +1,5 @@
-# 在网页上建立仓库
-1. 点击主页面左上角的小猫
-2. 
-3. 
+# 在Linux 上使用git
+1. 安装git
+```
+sudo apt-get install git
+```
