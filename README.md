@@ -3,7 +3,7 @@
 - [快捷键](https://github.com/2501590635/Linux/blob/master/Linux%20%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0(ubuntu)/%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 - [命令语句](https://github.com/2501590635/Linux/blob/master/Linux%20%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0(ubuntu)/%E5%91%BD%E4%BB%A4%E8%AF%AD%E5%8F%A5.md)
 - [关于vim](https://github.com/2501590635/Linux/tree/master/Linux%20%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0(ubuntu)/vim%20%E7%9A%84%E4%BD%BF%E7%94%A8)
-- [连接外网](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
+- [科学上网](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
 ***
 # 关于软件
 - [安装搜狗输入法](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95.md)
