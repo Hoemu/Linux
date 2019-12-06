@@ -1,5 +1,5 @@
 # 在Linux 上使用git
-[(参考廖雪峰git教程)](https://www.liaoxuefeng.com/wiki/896043488029600)
+
 1. 安装git
 ```
 sudo apt-get install git
@@ -47,3 +47,4 @@ HEAD 指的是当前版本，而 HEAD^ 是上一个版本，HEAD^^ 是上上个�
 git relog //记录你的每一次命令，然后查看新版本的最起前面的编号(commit_id)
 然后输入 git reset --hard commit_id
 ```
+[(参考廖雪峰git教程)](https://www.liaoxuefeng.com/wiki/896043488029600)
