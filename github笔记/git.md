@@ -1,4 +1,5 @@
 # 在Linux 上使用git
+[(参考廖雪峰)](https://www.liaoxuefeng.com/wiki/896043488029600)
 1. 安装git
 ```
 sudo apt-get install git
