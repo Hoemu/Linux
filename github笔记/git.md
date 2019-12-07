@@ -46,5 +46,6 @@ HEAD 指的是当前版本，而 HEAD^ 是上一个版本，HEAD^^ 是上上个�
 (5). 退回以前版本后再次返回新版本
 git relog //记录你的每一次命令，然后查看新版本的最起前面的编号(commit_id)
 然后输入 git reset --hard commit_id
+
 ```
 [(参考廖雪峰git教程)](https://www.liaoxuefeng.com/wiki/896043488029600)
