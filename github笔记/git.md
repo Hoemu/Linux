@@ -49,6 +49,7 @@ git relog //记录你的每一次命令，然后查看新版本的最起前面�
 
 (5).　丢弃工作区的修改
 git checkout -- readme.txt
+
 (6). 把暂存区的修改撤销掉，重新放回工作区
 git reset HEAD readme.txt
 
