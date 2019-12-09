@@ -16,9 +16,9 @@
 ***
 # 遇到的问题
 1. 有线设置中出现了ppp1,ppp2,ppp3...   
-     [a](https://forum.ubuntu.org.cn/viewtopic.php?t=329858)
+     [解决方案１](https://forum.ubuntu.org.cn/viewtopic.php?t=329858)
 2. Linux没有声音的情况<br>
-     [a](https://mumatong.com/blog/2018/07/02/%E8%A7%A3%E5%86%B3ubuntu-18-04%E7%B3%BB%E7%BB%9F%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3%E7%9A%84%E9%97%AE%E9%A2%98/)
+     [解决方案１](https://mumatong.com/blog/2018/07/02/%E8%A7%A3%E5%86%B3ubuntu-18-04%E7%B3%BB%E7%BB%9F%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3%E7%9A%84%E9%97%AE%E9%A2%98/)
 ***
 # 其他<br>
 [ubuntu社区(Ubuntu桌面入门指南)](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
