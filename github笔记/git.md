@@ -56,4 +56,13 @@ git checkout -- readme.txt
 git reset HEAD readme.txt
 
 ```
+##### 删除文件全过程
+```
+(1). 先删除文件管理器里面的文件
+rm filename.txt
+(2). 再删除git里面的
+git status
+使用这个查看
+```
+
 [(参考廖雪峰git教程)](https://www.liaoxuefeng.com/wiki/896043488029600)
