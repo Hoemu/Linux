@@ -46,11 +46,13 @@ HEAD 指的是当前版本，而 HEAD^ 是上一个版本，HEAD^^ 是上上个�
 (5). 退回以前版本后再次返回新版本
 git relog //记录你的每一次命令，然后查看新版本的最起前面的编号(commit_id)
 然后输入 git reset --hard commit_id
-
-(5).　丢弃工作区的修改
+```
+4. 删除文件
+```
+(1).　丢弃工作区的修改
 git checkout -- readme.txt
 
-(6). 把暂存区的修改撤销掉，重新放回工作区
+(2). 把暂存区的修改撤销掉，重新放回工作区
 git reset HEAD readme.txt
 
 ```
