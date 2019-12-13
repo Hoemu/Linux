@@ -12,7 +12,7 @@
 - [Linux 上的取词翻译软件](https://github.com/jiangzc/CuteTranslation)
 - [Linux 上的git学习](https://github.com/Ray-ye/Linux/blob/master/github%E7%AC%94%E8%AE%B0/git.md)
 - [tree 树状图软件](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/tree.md)
-
+- [安装QQ](https://blog.csdn.net/qq_39268193/article/details/87880219)
 ***
 # shell编程
 ***
