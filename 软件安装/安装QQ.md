@@ -11,5 +11,5 @@
     QQ轻聊版：http://mirrors.aliyun.com/deepin/pool/non-free/d/deepin.com.qq.im.light/ <br>
 
 
-##### 参考1: https://www.lulinux.com/archives/1319 <br>
-##### 参考2: https://blog.csdn.net/qq_39268193/article/details/87880219 <br>
+###### 参考1: https://www.lulinux.com/archives/1319 <br>
+###### 参考2: https://blog.csdn.net/qq_39268193/article/details/87880219 <br>
