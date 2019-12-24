@@ -14,6 +14,7 @@
 - [tree 树状图软件](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/tree.md)
 - [安装QQ方法１](https://blog.csdn.net/qq_39268193/article/details/87880219)
 - [安装QQ方法２](https://www.lulinux.com/archives/1319)
+- [wps软件安装]()
 ***
 # shell编程
 ***
