@@ -12,10 +12,7 @@
 - [Linux 上的取词翻译软件](https://github.com/jiangzc/CuteTranslation)
 - [Linux 上的git学习](https://github.com/Ray-ye/Linux/blob/master/github%E7%AC%94%E8%AE%B0/git.md)
 - [tree 树状图软件](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/tree.md)
-- [安装QQ]()
-- [安装QQ方法１](https://blog.csdn.net/qq_39268193/article/details/87880219)
-- [安装QQ方法２](https://www.lulinux.com/archives/1319)
-- [wps软件安装](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/wps%E7%9A%84%E5%AE%89%E8%A3%85.md)
+- [安装QQ](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85QQ.md)
 - [ubuntu上的UML图软件](https://blog.csdn.net/shui1025701856/article/details/78478119)
 ***
 # shell编程
