@@ -21,8 +21,7 @@
 1. [有线设置中出现了ppp1,ppp2,ppp3...](https://forum.ubuntu.org.cn/viewtopic.php?t=329858)
 2. [Linux没有声音的情况](https://mumatong.com/blog/2018/07/02/%E8%A7%A3%E5%86%B3ubuntu-18-04%E7%B3%BB%E7%BB%9F%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3%E7%9A%84%E9%97%AE%E9%A2%98/)
 3. [ubuntu 19拨号连接](https://github.com/Ray-ye/Linux/blob/master/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/ubutnu%2019%E6%8B%A8%E5%8F%B7%E9%97%AE%E9%A2%98.md)
-4. [科学上网](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
-5. [Dia软件无法输入中文的情况](https://blog.csdn.net/qydcsdn/article/details/88943862)
+4. [Dia软件无法输入中文的情况](https://blog.csdn.net/qydcsdn/article/details/88943862)
 ***
 # 其他<br>
 [ubuntu社区(Ubuntu桌面入门指南)](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
