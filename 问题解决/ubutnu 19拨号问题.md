@@ -1,6 +1,16 @@
 ### 第一步
 sudo nmcli con edit type pppoe con-name "xxxxxx"
+
+<font size=2>*名字随便填*</font>
+
 ### 第二步
-set pppoe.username xxxx
-set pppoe.password xxxx
-***打x位置为自己填写的拨号用户和秘密***
+
+set pppoe.username username
+
+set pppoe.password password
+
+save 
+
+quit
+
+**上述的两个set处填写拨号的用户名和密码**
