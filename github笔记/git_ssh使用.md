@@ -8,7 +8,9 @@
   
  ## 生成ssh
  
- * `cd ~/.ssh`命令进入`ssh`文件，然后输入`ls`查看是否有 `ssh`文件
+ * `cd ~/.ssh`命令进入`ssh`文件，然后输入`ls`查看是否有 `ssh`的相关文件文件
+ 
+  * 如：`id_rsa`  `id_rsa.pub`
  
  * 如果不存在`ssh`文件，输入`ssh-keygen -t rsa -C "your_email@youremail.com"`命令，生成`ssh`相关文件
  
