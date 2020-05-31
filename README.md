@@ -12,7 +12,7 @@
 - [c++安装以及运用](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/C%2B%2B%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E8%BF%90%E7%94%A8.md)
 - [MySQL安装以及运用](https://github.com/2501590635/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/MySQL%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E8%BF%90%E7%94%A8.md)
 - [Linux 上的取词翻译软件](https://github.com/jiangzc/CuteTranslation)
-- [Linux 上的git学习](https://github.com/Ray-ye/Linux/blob/master/github%E7%AC%94%E8%AE%B0/git.md)
+- [Linux 上的git学习](https://github.com/Mu-lnz/Linux/blob/master/github%E7%AC%94%E8%AE%B0/git_list.md)
 - [tree 树状图软件](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/tree.md)
 - [安装QQ](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85QQ.md)
 - [ubuntu上的UML图软件](https://blog.csdn.net/shui1025701856/article/details/78478119)
