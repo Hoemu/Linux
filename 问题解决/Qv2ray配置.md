@@ -1,3 +1,7 @@
+## 1. 使用ssr
+[点击直达ssr使用](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
+
+## 2. 使用Qv2ray
 [参考网站](https://mahongfei.com/1776.html)
 
 1. 需要下载`AppImage`文件，网站如下：
