@@ -24,7 +24,7 @@ git add readme.txt
 
 (4). 提交文件
 git commit -m "wrote a readme file"
-//这样做是为了告诉git 我们把文件提价到仓库里面了
+//这样做是为了告诉git 我们把文件提交到仓库里面了
 ```
 3. 查看历史记录
 ```
