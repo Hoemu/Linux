@@ -16,6 +16,7 @@
 - [tree 树状图软件](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/tree.md)
 - [安装QQ](https://github.com/Ray-ye/Linux/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85QQ.md)
 - [ubuntu上的UML图软件](https://blog.csdn.net/shui1025701856/article/details/78478119)
+- [wps安装](https://www.wps.cn/product/wpslinux#)
 ***
 # shell编程
 ***
