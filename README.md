@@ -26,6 +26,7 @@
 3. [ubuntu 19拨号连接(连接学校网络)](https://github.com/Ray-ye/Linux/blob/master/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/ubutnu%2019%E6%8B%A8%E5%8F%B7%E9%97%AE%E9%A2%98.md)
 4. [Dia软件无法输入中文的情况](https://blog.csdn.net/qydcsdn/article/details/88943862)
 5. [vscode上缩进太小](https://github.com/Mu-lnz/Linux/blob/master/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/ubuntu%2019%E4%B8%ADvscode%E7%BC%A9%E8%BF%9B.md)
+6. [V2ray出现`v2ray.com/core: V2Ray 4.9.0 started`错误]()
 ***
 # 其他<br>
 [ubuntu社区(Ubuntu桌面入门指南)](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
