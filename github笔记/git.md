@@ -56,6 +56,15 @@ git checkout -- readme.txt
 git reset HEAD readme.txt
 
 ```
+5. 分支
+```
+(1). 把当前文件提交到缓存区：git add "文件名称"
+
+(2). 把缓存区的文件提交到远程库中：git commit -m "日志"
+
+
+```
+
 ##### 删除文件全过程
 ```
 (1). 先删除文件管理器里面的文件
