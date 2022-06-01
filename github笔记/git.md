@@ -62,7 +62,6 @@ git reset HEAD readme.txt
 
 (2). 把缓存区的文件提交到远程库中：git commit -m "日志"
 
-
 ```
 
 ##### 删除文件全过程
