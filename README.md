@@ -5,6 +5,6 @@
 ## software 
 
 ## shell 
-1.[Writing a `ello world` shell](./shell/profile.md)
+1.[Writing `hello world` shell](./shell/profile.md)
 
 ## solve ..
