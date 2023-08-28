@@ -1,3 +1,4 @@
+![docs]().![MIT-2.]().![pr]().![size]().![!All Contributors]().
 # Linux Study
 
 ## about ubuntu
