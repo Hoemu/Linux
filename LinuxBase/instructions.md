@@ -48,11 +48,17 @@
 
 ## 用户权限
 ### chmod 命令
-`chmod` 命令全称 `change mode`，权限对应值如下：
+1. `chmod` 命令全称 `change mode`，权限对应值如下：
 ```
 u: rwx = 7
 g: rx  = 5
 o:  r- = 4
 ```
 其中文件权限：读（r），写（w），执行（x）
+### 用户的创建
+2. 用户管理
+- 创建用户指令: `useradd  -m userName`(注意：如果没有在特权下需要在首部加入 `sudo`).
+- 删除用户指令：`sudo userdel userName`，有时候会出现当前用户线程，那么需要先单独停止线程，`sudo kill -9 process_id(PID)`，然后再使用`sudo userdel userName`，最后删除在`home`下的用户文件夹即可删除用户.
+- 查看用户需要在 `/etc/passwd`文件里面查看，可用命令`cat /etc/passwd`.
+- 组群资讯
 
