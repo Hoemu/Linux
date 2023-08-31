@@ -14,3 +14,15 @@ VAR="abcd"
 echo $VAR
 ```
 如上，会输出`VAR`里面的值`abcd`(注意，变量的等号左右不能有空格！
+
+4. 在`linux`上运行一个`cpp`程序
+
+	1). 先准备一个`cpp`程序，我们可以把它命名为`service.cpp`
+	2). 再写一个`.sh`脚本,假设`.sh`脚本名称为`run.sh`，如下：
+		```
+		cat > run.sh
+		#! /bin/bash
+		command g++ service.cpp -o service
+		./service
+		```
+	3). 执行`.sh`文件: `sh run.sh`
