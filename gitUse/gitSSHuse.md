@@ -13,6 +13,8 @@ git config --global user.name
 userName
 git config --global user.email 
 email@gmil.com
+//当然，你也可以选择使用如下命令查看
+git config --global --list
 ```
 
 也可以通过修改全局配置文件 

@@ -15,7 +15,7 @@ echo $VAR
 ```
 如上，会输出`VAR`里面的值`abcd`(注意，变量的等号左右不能有空格！
 
-4. 在`linux`上运行一个`cpp`程序
+4. 在`linux`使用脚本运行`cpp`程序
 
 	1). 先准备一个`cpp`程序，我们可以把它命名为`service.cpp`
 	2). 再写一个`.sh`脚本,假设`.sh`脚本名称为`run.sh`，如下：
@@ -26,3 +26,10 @@ echo $VAR
 		./service
 		```
 	3). 执行`.sh`文件: `sh run.sh`
+5. `find`和`grep`
+	1). `find`一般以文件属性的方式进行查找
+	2). `grep`一般以文件内容的方式进行查找，如下：
+		```
+		grep *.cpp   	     //查找当前目录下的所有 .cpp 为后缀的文件
+		grep string fineName //查找 fileName 下的 string 字符串
+		```
