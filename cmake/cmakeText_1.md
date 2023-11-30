@@ -1,4 +1,4 @@
-写一个简单的`CMake`模板
+# 写一个简单的`CMake`模板
 ```c++
 # 设置当前 cmake 版本信息
 cmake_minimum_required(VERSION 3.5)
@@ -31,5 +31,15 @@ set(EXC WIN32
 add_library(GLFW)
 
 add_executable(EXC main.cpp)
+
+```
+
+# 导入外部库文件
+```c++
+include_directories(${FilePath})/// 导入头文件
+link_directores(${})		/// 导入库文件目录到当前工程
+link_libraries(${lib.a})	/// 导入库文件到当前工程
+target_link_libraries()		/// 导入库文件到子工程
+target_include_directories()	/// 导入头文件目录到子工程
 
 ```
