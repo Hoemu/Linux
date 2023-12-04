@@ -43,3 +43,12 @@ target_link_libraries()		/// 导入库文件到子工程
 target_include_directories()	/// 导入头文件目录到子工程
 
 ```
+
+## 如何导入一个 `OpenCV` 库？
+下面代码生效的前提是已经生成了`OpenCV`的`Build`
+```c++
+find_package(OpenCV 4.5 REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+target_link_libraries(PorjectName ${OpenCV_LIBS})
+
+```
