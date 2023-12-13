@@ -52,3 +52,8 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 target_link_libraries(PorjectName ${OpenCV_LIBS})
 
 ```
+### 如果出现`cmake`出现异常情况，则检查一下环境是否配置
+```c++
+/// 标准环境路径
+D:\***\****\opencv-build\bin
+```
